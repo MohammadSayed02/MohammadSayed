@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Mohammad Sayed</h1>
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/81252117/211005104-2cc07f64-dba7-4e8e-8c98-518e3706b942.gif" width="250" height="200" />
+<img  src="[https://user-images.githubusercontent.com/81252117/211005104-2cc07f64-dba7-4e8e-8c98-518e3706b942.gif" width="250" height="200](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)" />
 <br>
 <img  src="https://readme-typing-svg.herokuapp.com?font=Times&size=100&color=207195&center=true&width=1500&height=400&lines=Welcome+to+my+GitHub+profile" width="550" height="100" />
 </p>
@@ -109,7 +109,7 @@ If you want to reach out to me about anything, just send me😃.
 <br>
 
 # 📊 Github Stats:
-[![Mohammad Sayed's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohammadSayed02&theme=dracula)]
+![Mohammad Sayed's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohammadSayed02&theme=dracula)
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadSayed02&theme=radical)
