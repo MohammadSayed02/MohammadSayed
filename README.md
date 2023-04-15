@@ -16,7 +16,7 @@ aboutMe = {
    "home": "Cairo, Egypt",
    "education": "Senior1 Biomedical Engineering at Cairo University",
    "languages": ["Arabic", "English", "German"],
-   "hobbies": ["Graphic design", "Hip Hop Music", "Learning languages"]
+   "hobbies": ["Hip Hop Music", "Learning languages"]
 }
 ```
 
