@@ -117,7 +117,9 @@ If you want to reach out to me about anything, just send me😃.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohammadSayed02&theme=radical&utcOffset=8) 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadSayed02&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MohammadSayed02&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSayed02&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html,jupyter%20notebook&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- <p align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinahussam&theme=tokyonight">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dinahussam&theme=tokyonight">
@@ -126,13 +128,19 @@ If you want to reach out to me about anything, just send me😃.
  <img src="https://github-readme-stats.vercel.app/api?username=Dinahussam&show_icons=true&theme=tokyonight">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinahussam&theme=tokyonight">
 </p> -->
+ 
 <br>
+
 <div align="center" >
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=Dinahussam&theme=tokyonight&margin-w=15" /> -->
 <div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohammadSayed02&theme=radical&column=7)](https://github.com/Naderab/github-profile-trophy) 
+   
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohammadSayed02&theme=radical&column=7)](https://github.com/Naderab/github-profile-trophy)
+   
 <br>
+ 
 #### Profile Views
+ 
 ![GitHub Views](https://profile-counter.glitch.me/MohammadSayed02/count.svg)
 
 
