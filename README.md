@@ -107,7 +107,7 @@ If you want to reach out to me about anything, just send me😃.
 <br>
 
 # 📊 Github Stats:
-[![Mohammad Sayed's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohammadSayed02&theme=dracula)]
+![Mohammad Sayed's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohammadSayed02&theme=dracula)
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadSayed02&theme=radical)
