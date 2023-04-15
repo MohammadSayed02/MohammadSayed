@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Mohammad Sayed</h1>
 
 <p align="center">
-<img  src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="1920" height="200" />
+<img  src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="1920" height="1080" />
 <br>
 <img  src="https://readme-typing-svg.herokuapp.com?font=Times&size=100&color=207195&center=true&width=1500&height=400&lines=Welcome+to+my+GitHub+profile" width="550" height="100" />
 </p>
