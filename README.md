@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Mohammad Sayed</h1>
 
-<p align="center">
-<img  src="https://user-images.githubusercontent.com/81252117/211005104-2cc07f64-dba7-4e8e-8c98-518e3706b942.gif" width="250" height="200" />
-<br>
+
 <img  src="https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966"/>
 </p>
 
