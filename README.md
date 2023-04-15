@@ -110,7 +110,12 @@ If you want to reach out to me about anything, just send me😃.
 ![Mohammad Sayed's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohammadSayed02&theme=dracula)
 <br>
 
+<div align="center" >
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadSayed02&theme=radical)
+<div>
+   
+   
+   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadSayed02&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohammadSayed02&theme=radical&utcOffset=8)
    
