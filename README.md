@@ -1,14 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Mohammad Sayed</h1>
 
-
-<img src="https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966"/>
+<p align="center">
+<img  src="https://user-images.githubusercontent.com/81252117/211005104-2cc07f64-dba7-4e8e-8c98-518e3706b942.gif" width="250" height="200" />
+<br>
+<img  src="https://readme-typing-svg.herokuapp.com?font=Times&size=100&color=207195&center=true&width=1500&height=400&lines=Welcome+to+my+GitHub+profile" width="550" height="100" />
 </p>
 
-<div align="center" >
-<!-- <img src="[https://github-profile-trophy.vercel.app/?username=Dinahussam&theme=tokyonight&margin-w=15](https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966)" /> -->
-<div>
-   
-   
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Who am I?
 ```Python
@@ -112,10 +109,9 @@ If you want to reach out to me about anything, just send me😃.
 <br>
 
 # 📊 Github Stats:
-![Mohammad Sayed's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohammadSayed02&theme=dracula)
+[![Mohammad Sayed's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohammadSayed02&theme=dracula)]
 <br>
 
-<div align="center" >
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadSayed02&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadSayed02&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohammadSayed02&theme=radical&utcOffset=8)
@@ -124,11 +120,6 @@ If you want to reach out to me about anything, just send me😃.
 [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MohammadSayed02&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSayed02&exclude_repo=statistics-cc-hypothesis-testing,stm32f401-429xx-projects,STM32F401CC,STM32F4xx-DMA,sound-equalizer&hide=html,jupyter%20notebook&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-<div>
-   
-   
-   
-
 
 <!-- <p align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinahussam&theme=tokyonight">
