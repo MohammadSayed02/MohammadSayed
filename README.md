@@ -12,9 +12,9 @@
 ```Python
 aboutMe = {
    "name": "Mohammad Sayed",
-   "age": 21,
+   "age": 24,
    "home": "Cairo, Egypt",
-   "education": "Senior1 Biomedical Engineering at Cairo University",
+   "education": "A Graduate Biomedical Engineer from Cairo University",
    "languages": ["Arabic", "English", "German"],
    "hobbies": ["Hip Hop Music", "Learning languages"]
 }
@@ -23,7 +23,7 @@ aboutMe = {
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me: 
 
 A 3rd-year biomedical engineering student at faculty of engineering Cairo university.<br>
-I'm interested in Data Science & Biomedical engineering.<br>
+I'm interested in Software engineering & AI in Biomedical engineering.<br>
 
 # <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Contact Me:
 If you want to reach out to me about anything, just send me😃.
